@@ -1,6 +1,6 @@
 # Boot Sector Plasma Effect
 
-A 512-byte x86 real-mode boot sector that renders an animated colour plasma
+A 512-byte x86 real-mode boot sector program that renders an animated colour plasma
 directly in VGA mode 13h (320×200, 256 colours).
 
 ![Screenshot](plasma.png)
